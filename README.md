@@ -207,6 +207,11 @@ p.note { display: none; }
 <a href="20260704_020.JPG" target="_blank"><img src="20260704_020.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260704_021.JPG" target="_blank"><img src="20260704_021.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">接点交換工事中に、ちょうど町内循環のPRカーが通りました</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mQocCV9O_I8?si=O7-MbobPciIbfcDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 <h2><span class="yellow">最後に近隣のNTT基地局に電話、光通信の発信機をリセットで作業終了</span></h2>
 <a href="20260704_011.JPG" target="_blank"><img src="20260704_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 
