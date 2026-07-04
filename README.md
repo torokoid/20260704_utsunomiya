@@ -187,7 +187,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">夕方、調子の悪いドコモ光の回線チェック</span></h2>
 <a href="20260704_010.JPG" target="_blank"><img src="20260704_010.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20260704_011.JPG" target="_blank"><img src="20260704_011.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 
 <h2><span class="yellow">屋外の光回線の接点交換</span></h2>
 <a href="20260704_012.JPG" target="_blank"><img src="20260704_012.JPG" alt="サンプル画像" class="responsive-media"></a>
@@ -206,6 +206,9 @@ p.note { display: none; }
 <a href="20260704_019.JPG" target="_blank"><img src="20260704_019.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260704_020.JPG" target="_blank"><img src="20260704_020.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260704_021.JPG" target="_blank"><img src="20260704_021.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">最後に近隣のNTT基地局に電話、光通信の発信機をリセットで作業終了</span></h2>
+<a href="20260704_011.JPG" target="_blank"><img src="20260704_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ゴールデンタイムの通信速度の落ち代はやや改善</span></h2>
 <a href="20260704_022.JPG" target="_blank"><img src="20260704_022.JPG" alt="サンプル画像" class="responsive-media"></a>
